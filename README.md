@@ -23,16 +23,6 @@ dá pra ver o status de cada tarefa (Concluída ou Pendente)
 
 e dá pra sair quando eu finalmente aceito que já tá tarde
 
-## O que eu usei
-
-Java
-
-Scanner pra entrada de dados
-
-arrays (String[] e boolean[])
-
-console, porque todo mundo começa por aqui
-
 ## Como rodar
 
 Clona o repositório
